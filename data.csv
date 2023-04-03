@@ -1,4 +1,4 @@
-Player,Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Minute,At_score,Type,Goal_assist
+Jugador,Temporada,Competicion,Jornada,Fecha,Estadio,Club,Oponente,Resultado,Posicion,Minuto,Gol,Tipo,Asistencia
 Cristiano Ronaldo,02/03,Liga Portugal,6,2002-10-07,H,Sporting CP,Moreirense FC,3:00,LW,34,2:00,Solo run,
 Cristiano Ronaldo,02/03,Liga Portugal,6,2002-10-07,H,Sporting CP,Moreirense FC,3:00,LW,90+5,3:00,Header,Rui Jorge
 Cristiano Ronaldo,02/03,Liga Portugal,8,2002-10-26,A,Sporting CP,Boavista FC,1:02,,88,1:02,Right-footed shot,Carlos Martins
